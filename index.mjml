@@ -12,6 +12,12 @@
 
           <mj-divider border-color="#27ae60"></mj-divider>
 
+          <mj-section>
+            <mj-column>
+              <mj-social display="twitter" />
+            </mj-column>
+          </mj-section>
+
         </mj-column>
       </mj-section>
     </mj-container>
