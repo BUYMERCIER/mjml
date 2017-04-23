@@ -7,7 +7,7 @@
           <mj-divider border-color="#27ae60"></mj-divider>
 
           <mj-text align="center" font-size="20px" color="#2ecc71" font-family="helvetica">
-            Building a great email
+            Header
           </mj-text>
 
           <mj-divider border-color="#27ae60"></mj-divider>
