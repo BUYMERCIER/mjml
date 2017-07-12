@@ -5,12 +5,14 @@
         <mj-column>
 
           <mj-divider border-color="#27ae60"></mj-divider>
-
           <mj-text align="center" font-size="20px" color="#2ecc71" font-family="helvetica">
             Header
           </mj-text>
-
           <mj-divider border-color="#27ae60"></mj-divider>
+          
+          <mj-text align="left">
+            Hello,
+          </mj-text>
 
           <mj-section>
             <mj-column>
