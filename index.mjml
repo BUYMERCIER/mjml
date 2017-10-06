@@ -14,12 +14,6 @@
             Hello,
           </mj-text>
 
-          <mj-section>
-            <mj-column>
-              <mj-social display="twitter" />
-            </mj-column>
-          </mj-section>
-
         </mj-column>
       </mj-section>
     </mj-container>
